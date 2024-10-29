@@ -1,0 +1,3 @@
+VM - Virtual Machine
+jvm - java virtual machine
+gg - good game
